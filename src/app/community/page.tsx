@@ -118,8 +118,6 @@ const events = [
 ];
 
 export default function CommunityPage() {
-  const [activePost, setActivePost] = useState<number | null>(null);
-
   return (
     <ContentLayout title="Community Hub" navigation={navigation}>
       {/* Overview Section */}

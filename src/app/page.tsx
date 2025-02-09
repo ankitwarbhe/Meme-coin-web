@@ -1,7 +1,6 @@
 'use client';
 
 import Image from "next/image";
-import { Sword, Shield, Zap, Globe2, ChevronRight } from 'lucide-react';
 
 const heroes = [
   {

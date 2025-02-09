@@ -5,12 +5,10 @@ import Image from 'next/image';
 import {
   Search,
   ShoppingCart,
-  Filter,
   Star,
   X,
   Plus,
   Minus,
-  Trash2,
 } from 'lucide-react';
 import GridLayout from '@/components/layout/GridLayout';
 

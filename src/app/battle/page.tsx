@@ -19,7 +19,7 @@ interface GameMode {
   image: string;
   players: string;
   rewards: string;
-  icon: any;
+  icon: React.ElementType;
 }
 
 const navigation = [
